@@ -17,7 +17,6 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - **CSS3** – for styling and layout
 - **JavaScript (Vanilla JS)** – for calculator logic and interactivity
 
-## 📷 Screenshot
 
 ## 📷 Screenshot
 
@@ -31,6 +30,12 @@ To run the calculator locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bella-winter/calculator-pwm.git
+
+2. DEPLOYMENT
+## 🌍 Live Demo
+
+[Click here to use the calculator](https://bella-winter.github.io/calculator-pwm/)
+
 
 # FILE STRUCTURE
   calculator-pwm/
