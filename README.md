@@ -4,6 +4,11 @@
 
 A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations including addition, subtraction, multiplication, and division.
 
+## DEPLOYMENT
+
+1. LIVE DEMO
+2. [![Netlify Status](https://api.netlify.com/api/v1/badges/4b10dede-a21e-4661-b06a-26ccbbd47f6c/deploy-status)](https://app.netlify.com/projects/dulcet-concha-1182a3/deploys)
+
 ## 🌟 Features
 
 - Basic arithmetic operations: `+`, `-`, `×`, `÷`
